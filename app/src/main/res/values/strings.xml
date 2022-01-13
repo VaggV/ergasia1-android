@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ergasia1</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="press_the_buttons_below_to_start_recording_sudden_speed_changes_and_press_stop_to_stop_recording">Press the buttons below to start recording sudden speed changes and press stop to stop recording</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="show_map">Show map</string>
+    <string name="recording_speed">*RECORDING SPEED*</string>
+    <string name="mple_shmeio_epitaxynsh">Mple shmeio: Epitaxynsh</string>
+    <string name="kokkino_shmeio_frenarisma">Kokkino shmeio: Frenarisma</string>
+</resources>
